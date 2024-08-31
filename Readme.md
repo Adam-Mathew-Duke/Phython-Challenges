@@ -1,6 +1,8 @@
 ### Python Programming Challenges ([View Website](https://pythonprinciples.com/challenges/))
 
-+ Capital indexes - solved ✓ [View Code]()
+Here’s a list of programming challenges I’ve tackled from the Python Principles website. Each challenge has pushed me to think critically and apply what I’ve learned, helping me grow as a Python programmer.
+
++ Capital indexes - solved ✓ ([View Code]())
 + Middle letter	- unsolved
 + Online status - unsolved
 + Randomness - unsolved
