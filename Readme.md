@@ -3,7 +3,7 @@
 Here’s a list of programming challenges I’ve tackled from the Python Principles website. Each challenge has pushed me to think critically and apply what I’ve learned, helping me grow as a Python programmer.
 
 + Capital indexes - solved ✓ ([View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/capital_indexes.py))
-+ Middle letter	- solved ✓ ([View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/capital_indexes.py))
++ Middle letter	- solved ✓ ([View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/middle_letter.py))
 + Online status - unsolved
 + Randomness - unsolved
 + Type check - unsolved
