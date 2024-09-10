@@ -6,7 +6,7 @@ Here’s a list of programming challenges I’ve tackled from the Python Princip
 + Middle letter	- solved ✓ ([View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/middle_letter.py))
 + Online status	- solved ✓ ([View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/online_status.py))
 + Randomness - solved ✓  ([View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/randomness.py))
-+ Type check - unsolved
++ Type check - solved ✓ [View Code](https://github.com/Adam-Mathew-Duke/Phython-Challenges/blob/main/type_check.py)
 + Double letters - unsolved
 + Adding and removing dots - unsolved
 + Counting syllables - unsolved
